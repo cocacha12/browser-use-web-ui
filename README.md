@@ -21,6 +21,10 @@ We would like to officially thank [WarmShao](https://github.com/warmshao) for hi
 
 <video src="https://github.com/user-attachments/assets/56bc7080-f2e3-4367-af22-6bf2245ff6cb" controls="controls">Your browser does not support playing this video!</video>
 
+## Nixpacks Compatibility
+
+This project is fully compatible with Nixpacks out of the box. You can deploy it to any platform that supports Nixpacks (such as Coolify, Railway, Northflank, etc.) without any custom configuration. The included `Procfile` ensures the correct start command is used automatically.
+
 ## Installation Guide
 
 ### Option 1: Local Installation
